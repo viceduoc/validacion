@@ -1,4 +1,7 @@
 *
+//validación 'fácil'
+    //https://www.sitepoint.com/basic-jquery-form-validation-tutorial/
+
 Usar GIT, siempre
 Web responsiva (grilla)
 Tipo de "publicación" debe tener categorias (al menos 2) y "autor" o simiular
