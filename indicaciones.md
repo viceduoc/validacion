@@ -22,16 +22,16 @@
 
 * ENTREGA 2 
 * FORMULARIO RESPONSIVO CON BOOTSTRAP (INCERTO EN UN CONTEXTO)
-*(Mas lo que viene)
+* (Mas lo que viene)
 
-*Los datos que debe ingresar el usuario en el formulario son los siguientes:
-▪ Nombre completo de la persona
-▪ Email.
-▪ Debe seleccionar si va a identificarse mediante rut o pasaporte y luego debe
+* Los datos que debe ingresar el usuario en el formulario son los siguientes:
+* Nombre completo de la persona
+* Email.
+* Debe seleccionar si va a identificarse mediante rut o pasaporte y luego debe
 ingresarlo (a futuro debemos validar).
-▪ Número de teléfono (opcional)
-▪ Ingresar la ciudad de residencia.
-▪ Comentario que le permita a las personas señala en lo que les gustaría participar
+* Número de teléfono (opcional)
+* Ingresar la ciudad de residencia.
+* Comentario que le permita a las personas señala en lo que les gustaría participar
 en la ONG.
-▪ Deben aparecer dos botones uno para enviar y el otro para limpiar el formulario.
+* Deben aparecer dos botones uno para enviar y el otro para limpiar el formulario.
 */
